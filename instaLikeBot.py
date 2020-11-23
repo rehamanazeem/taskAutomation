@@ -3,8 +3,8 @@ from selenium.webdriver.common.keys import Keys
 import time
 
 	
-uname = 'acrossthepinhole'
-upswd = 'satakaa12'	
+uname = 'XXXXXX'
+upswd = 'XXXX'	
 
 def login(uname,upswd,browser):
 	uname_field = browser.find_element_by_name("username")
